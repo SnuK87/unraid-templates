@@ -7,13 +7,13 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://forums.unraid.net/topic/186953-support-valkey/<Support/>
+  <Support>https://forums.unraid.net/topic/186953-support-valkey/</Support>
   <Project>https://valkey.io/</Project>
   <Overview>Valkey is an open source (BSD) high-performance key/value datastore that supports a variety of workloads such as caching, message queues, and can act as a primary database.</Overview>
   <Category>Productivity: Tools: Network:Management</Category>
   <WebUI/>
-  <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/SnuK87/unraid-templates/refs/heads/main/icons/valkey-logo.png<Icon/>
+  <TemplateURL>https://github.com/SnuK87/unraid-templates/blob/main/valkey.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/SnuK87/unraid-templates/refs/heads/main/icons/valkey-logo.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
