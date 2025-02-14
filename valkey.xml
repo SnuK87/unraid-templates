@@ -13,7 +13,7 @@
   <Category>Productivity: Tools: Network:Management</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon/>
+  <Icon>https://raw.githubusercontent.com/SnuK87/unraid-templates/refs/heads/main/icons/valkey-logo.svg<Icon/>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
