@@ -23,5 +23,3 @@
   <Requires/>
   <Config Name="Valkey Port" Target="6379" Default="" Mode="tcp" Description="Default port" Type="Port" Display="always" Required="false" Mask="false">6379</Config>
 </Container>
-
-/usr/local/emhttp/plugins/dynamix.docker.manager/scripts/docker create --name='Valkey' --net='bridge' -e TZ="America/Los_Angeles" -e HOST_OS="Unraid" -e HOST_HOSTNAME="Tower" -e HOST_CONTAINERNAME="Valkey" -l net.unraid.docker.managed=dockerman -p '6379:6379/tcp' 'valkey'
